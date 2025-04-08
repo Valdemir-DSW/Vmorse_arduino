@@ -71,6 +71,4 @@ Este projeto foi desenvolvido por **Valdemir** e está **liberado para uso livre
 
 Quer usar sinais de luz ou som em vez de fios diretos? Sem problemas! Basta adaptar a parte física, e o código continuará funcionando com qualquer tipo de sinal binário (luz ligada/desligada, som curto/longo etc).
 
----
 
-📬 Dúvidas, sugestões ou melhorias? Contribuições são bem-vindas!
